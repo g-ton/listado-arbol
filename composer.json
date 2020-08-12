@@ -1,0 +1,21 @@
+{
+    "name": "cio/yii2-listado-arbol",
+    "description": "Listado en forma de árbol (Tree Grid)",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","treegrid"," tree"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "CIO",
+            "email": "desarrollo8@xpd.mx"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "myself\\listadoArbol\\": ""
+        }
+    }
+}
